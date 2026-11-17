@@ -1,0 +1,6 @@
+# Nenhuma biblioteca externa foi utilizada neste projeto.
+# O sistema foi desenvolvido utilizando apenas os módulos nativos do Python 3:
+# - tkinter
+# - sqlite3
+# - csv
+# - datetime
